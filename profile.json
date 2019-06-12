@@ -1,15 +1,13 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
-		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"name": "Rodrigo Nas",
+		"label": "Software Developer",
+		"picture": "profile.png",
+		"email": "proclnas@gmail.com",
+		"website": "https://proclnas.github.io",
+		"twitter": "https://twitter.com/proclnas",
+		"github": "http://github.com/proclnas",
+		"summary": "I work as a software developer, designing and developing multi purpose systems. Infosec and open source lover <3"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
